@@ -242,7 +242,7 @@ def main(page: ft.Page):
 
         dados = receitas[categoria][nome]
 
-        imagem = dados["imagem"]
+        imagem = f"imagens/{dados['imagem']}"
 
         etapas = dados["etapas"]
 
