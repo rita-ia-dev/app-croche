@@ -313,9 +313,9 @@ def main(page: ft.Page):
                     ft.Container(
 
                         content=ft.Image(
-                            src=imagem,
-                            width=250,
-                            fit=ft.ImageFit.CONTAIN
+                        src=f"/{imagem}",
+                        width=250,
+                        fit=ft.ImageFit.CONTAIN
                         ),
 
                         border_radius=15,
