@@ -397,10 +397,4 @@ def main(page: ft.Page):
 
     mostrar_entrada()
 
-if __name__ == "__main__":
-    ft.app(
-        target=main,
-        host="0.0.0.0",
-        port=10000,
-        assets_dir="assets"
-    )
+ft.app(target=main)
