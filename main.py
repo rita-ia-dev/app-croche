@@ -242,7 +242,7 @@ def main(page: ft.Page):
 
         dados = receitas[categoria][nome]
 
-        imagem = f"imagens/{dados['imagem']}"
+        imagem = dados["imagem"]
 
         etapas = dados["etapas"]
 
@@ -397,4 +397,11 @@ def main(page: ft.Page):
 
     mostrar_entrada()
 
-ft.app(target=main, view=ft.AppView.WEB_BROWSER, port=10000, assets_dir="assets")
+if __name__ == "__main__":
+    ft.app(
+        target=main,
+        view=ft.AppView.WEB_BROWSER,
+        host="0.0.0.0",
+        port=10000,
+        assets_dir="assets"
+    )
