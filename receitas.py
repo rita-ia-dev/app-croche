@@ -1,8 +1,8 @@
 receitas = {
   "🏠 SALA": {
-    "Tapete Hena": {
-      "imagem": "tapete_hena.jpg",
-      "etapas": [
+        "Tapete Hena": {
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/tapete_hena.jpg",
+            "etapas": [
             "Materiais: Fio de Malha Premium Círculo (270 gramas), 2 novelos na cor 7316 (Hena), Fio de Malha Premium Círculo (270 gramas), 1 novelo nas cores 7895 (Ninho), 7103 (Néctar), Agulha de Crochê Círculo 9,0 milímetros e Tesoura.",
             "Com o Fio de Malha Premium Círculo na cor Néctar, inicie com 49 correntinhas + uma correntinha para virar o trabalho.",
             "1ª Carreira: Comece na 2ª correntinha a partir da agulha, faça um ponto baixíssimo. 1 meio ponto alto até o final da carreira.",
@@ -16,7 +16,7 @@ receitas = {
             ]
         },
         "Tapete Chevron Retangular": {
-            "imagem": "tapete_chevron_retangular.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/tapete_chevron_retangular.png",
             "etapas": [
             "Materiais: 2 novelos fio Macramê 400 gramas na cor 1670 Mantiqueira, 1 novelo de 400 gramas na cor 4751 Areia Da Praia, agulha de crochê 7 milímetros, agulha de tapeceiro e tesoura.",
             "Para criar o zig zag é necessário iniciar correntinhas múltiplas de 16+2. Para este tamanho de tapete, faremos 50 correntinhas (16 x 3 = 48 + 2 = 50 correntinhas), porém você pode adaptar o seu tapete no tamanho que desejar, basta seguir essa regra inicial. Cada cor será trabalhada por 8 carreiras, começaremos e terminaremos com a cor 1670 Mantiqueira.",
@@ -28,7 +28,7 @@ receitas = {
             ]
         },
         "Tapete Roma": {
-            "imagem": "tapete_roma.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/tapete_roma.png",
             "etapas": [
             "Materiais: Barbante EuroRoma Spesso 16 Fios na cor 580 Malva ou na cor da sua preferência, agulha de crochê 7 milímetros, tesoura e agulha de tapeçaria para arremate.",
             "1ª Carreira: Inicie com 41 correntinhas. Pule a primeira correntinha, faça 1 ponto baixo em cada correntinha pegando na alça de trás da correntinha até chegar na última.",
@@ -40,7 +40,7 @@ receitas = {
             ]
         },
         "Tapete Natural": {
-            "imagem": "tapete_natural.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/tapete_natural.png",
             "etapas": [
             "Materiais: 1 novelo de Barroco Natural, agulha de crochê 4,00 milímetros e tesoura.",
             "1ª Carreira: Inicie com 50 correntinhas. 5 pontos altos na quarta correntinha a partir da agulha. 45 pontos altos. 6 pontos altos na ponta. 45 pontos altos no lado oposto. Termine com 1 ponto baixíssimo.",
@@ -73,7 +73,7 @@ receitas = {
             ]
         },
         "Manta para Sofá Palhinha": {
-            "imagem": "manta_para_sofa_palhinha.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/manta_para_sofa_palhinha.png",
             "etapas": [
             "Materiais: 1 novelo Euro Roma Natural nº 4 700 gramas, agulha 3,5 milímetros, papelão com 13 centímetros de altura para fazer as franjas e tesoura.",
             "Inicie com um cordão de 159 correntinhas.",
@@ -89,7 +89,7 @@ receitas = {
             ]
         },
         "Prendedor de Cortina": {
-            "imagem": "prendedor_de_cortina.jpg",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/prendedor_de_cortina.jpg",
             "etapas": [
             "Materiais: 1 novelo de cordão de Rabo de Rato 2,5 milímetros na Cor: 5368 (Militar) ou na cor desejada, agulha para Crochê - 4,5 milímetros, base de papelão com 10 centímetros de comprimento.",
             "Inicie com um cordão de 63 correntinhas.",
@@ -102,7 +102,7 @@ receitas = {
   },
         "🍳 COZINHA": {
         "Sousplat Indigo": {
-            "imagem": "sousplat_indigo.jpg",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/sousplat_indigo.jpg",
             "etapas": [
             "Materiais: 1 novelo Bella e 1 novelo Bella Fashion nas cores que desejar, agulha para crochê n° 3,5 milímetros (caso seu ponto seja apertado, use a n°4 milímetros), tesoura, agulha de tapeceiro para arremates.",
             "1ª Carreira: Inicie com o anel mágico. Faça 3 correntinhas para dar altura de um ponto alto. Faça + 11 pontos altos dentro do anel, total de 12 pontos. Finalize com um ponto baixíssimo na 3ª correntinha que você fez no início do trabalho.",
@@ -128,7 +128,7 @@ receitas = {
             ]
         },
         "Sousplat e porta-guardanapo Natalino": {
-            "imagem": "sousplat_e_porta_guardanapo_natalino.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/sousplat_e_porta_guardanapo_natalino.png",
             "etapas": [
             "Materiais: 2 novelos Duna cor Branco (8001), 1 novelo Duna cor Maçã (3542), 1 novelo Duna cor Trevo (5638), 1 novelo Encanto cor Savana (9390), 1 novelo Encanto cor Scarlet (9926), agulha para crochê 2.5 milímetros, miçangas douradas, argola de madeira, agulha e linha de Costura e tesoura. Esses materiais rendem 2 sousplat e 2 portas guardanapo.",
             "Com o fio Duna branco, inicie com um anel mágico. 1ª carreira: Faça 12 pontos altos.",
@@ -152,7 +152,7 @@ receitas = {
             ]
         },
         "Trilho de Mesa Jacarta": {
-            "imagem": "trilho_de_mesa_jacarta.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/trilho_de_mesa_jacarta.png",
             "etapas": [
             "Materiais: Barroco Natural 4/4 (400 gramas), 1 nov. na cor 20 (Natural), agulha de Crochê 2,5 milímetros e tesoura.",
             "Inicie com 191 correntinhas. Faça 1 correntinhas para virar o trabalho.",
@@ -170,7 +170,7 @@ receitas = {
             ]
         },
         "Trilho de Mesa Arcos": {
-            "imagem": "trilho_de_mesa_arcos.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/trilho_de_mesa_arcos.png",
             "etapas": [
             "Materiais: Fio Barroco Natural 4/8 (700 gramas), 1 novelo na cor 20 (Natural), agulha de crochê de 5,0 milímetros e tesoura.",
             "Inicie com 137 correntinhas.",
@@ -182,7 +182,7 @@ receitas = {
             ]
         },
         "Cesto para Pães": {
-            "imagem": "cesto_para_pães.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/cesto_para_p%C3%A3es.png",
             "etapas": [
             "Materiais: Linha Macramê 400 gramas, 1 novelo na cor Pinho (1784), agulha de crochê 5 milímetros e tesoura.",
             "Base: 1ª Carreira: Iniciar com 6 pontos baixos dentro do anel mágico.",
@@ -204,7 +204,7 @@ receitas = {
     },
         "🧸 AMIGURUMI": {
         "Amigurumi (Coelhinho)": {
-            "imagem": "coelhinho.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/coelhinho.png",
             "etapas": [
             "Materiais: Linha amigurumi Hortência 2137, Dália 4168, Musgo 5398, Am-Roseira 3157, enchimento de fibra de poliéster, agulha de crochê de 3,5 milímetros e olhos de segurança de 6 milímetros.",
             "Cabeça e Corpo: 1ª Carreira: Faça 6 pontos baixos dentro de anel mágico.",
@@ -256,7 +256,7 @@ receitas = {
             ],
         },
         "Amigurumi (Polvinho)": {
-            "imagem": "polvinho.jpg",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/polvinho.jpg",
             "etapas": [
             "Tentáculos (Faça 8): Comece com o anel mágico e 6 pontos baixos.", 
             "2ª Carreira: Faça 6 aumentos você terá 12 pontos.",
@@ -283,7 +283,7 @@ receitas = {
             ]
         },
         "Amigurumi (Coração)": {
-            "imagem": "coracao.jpg",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/coracao.jpg",
             "etapas": [
             "As Metades (faça 2): 1ª carreira: 6 pontos baixos no anel mágico.",
             "2ª Carreira: aumente para 12 pontos.",
@@ -315,7 +315,7 @@ receitas = {
         },
         "Amigurumi (Elefante Chocalho)": {
             "imagem": "elefante_chocalho.png",
-            "etapas": [
+            "etapas": ["https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/elefante_chocalho.png"
             "Materiais: Fio de algodão 8/6 (cinza, natural, e para bordar as bochechas e sobrancelhas rosa e preto), agulha de crochê 3 milímetros, tesoura, fibra siliconada, agulha de costura, olhos de segurança nº 12 e caixa de chocalho.",
             "Orelhas (Faça 2): Faça 2 peças na cor natural e 2 na cor cinza. 1ª Carreira: Faça 7 correntinhas. 5 pontos baixos na terceira correntinha depois da agulha. 6 pontos baixos no último ponto. Vire o trabalho e faça 4 pontos baixos do outro lado. 1 aumento no último ponto, total de 17 pontos na carreira.",
             "2ª Carreira: Inicie com 1 aumento. 4 pontos baixos e 6 aumentos. 5 pontos baixos e 1 aumento. Total de 25 pontos na carreira.",
@@ -359,7 +359,7 @@ receitas = {
             ]
         },
         "Amigurumi (Abelha)": {
-            "imagem": "abelha.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/abelha.png",
             "etapas": [
             "Materiais: Fio Linha Amigurumi Círculo 1730, Fio Linha Amigurumi Círculo 7220, Fio Linha Amigurumi Círculo 8001, olhos de segurança nº 6, agulha de costura, fibra siliconada, agulha de crochê 3 milímetros e tesoura.",
             "Cabeça: 1º Carreira: Inicie com 6 pontos baixos em um anel mágico.",
@@ -403,7 +403,7 @@ receitas = {
             ]
         },
         "Amigurumi (Urso)": {
-            "imagem": "urso.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/urso.png",
             "etapas": [
             "Materiais: Fio Amigurumi Pelúcia 7569 brigadeiro, Fio Amigurumi Pelúcia 8001 branco, agulha de crochê 7,00 milímetros, olhos de segurança de 12 milímetros, nariz de plástico de segurança, linha fina no tom do fio para detalhes de costura, agulha de costura, tesoura, fibra siliconada.",
             "Pernas, Corpo e Cabeça: Pernas: (faça 2) 1ª Carreira: Inicie com 8 pontos baixos em anel mágico.",
@@ -433,7 +433,7 @@ receitas = {
     },
         "🧶 AMOSTRAS": {
          "Amostra 1": {
-             "imagem": "amostra_1.png",
+             "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/amostra_1.png",
              "etapas": [
             "Inicie com 14 corretinhas + uma para virar o trabalho.",
             "1ª Carreira: Faça 14 pontos baixos.",
@@ -446,7 +446,7 @@ receitas = {
             ]
         },
         "Amostra 2": {
-            "imagem": "amostra_2.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/amostra_2.png",
             "etapas": [
             "Inicie com 13 correntinhas.",
             "1ª Carreira: Faça ponto alto até o final da carreira. Faça 3 correntinhas para virar o trabalho.",
@@ -457,7 +457,7 @@ receitas = {
             ]
         },
         "Amostra 3": {
-            "imagem": "amostra_3.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/amostra_3.png",
             "etapas": [
             "Inicie com 23 correntinhas.",
             "1ª Carreira: Faça uma laçada e na 4º correntinha depois da agulha faça 4 pontos altos. Pule 1 ponto de base e faça 5 pontos altos. Faça uma correntinha. Pule 1 ponto e faça 5 pontos altos. Pule 1 ponto e finalize a carreira com 3 pontos altos.",
@@ -468,7 +468,7 @@ receitas = {
             ]
         },
         "Amostra 4": {
-            "imagem": "amostra_4.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/amostra_4.png",
             "etapas": [
             "Inicie com 57 correntinhas.",
             "1ª Carreira: Faça 5 correntinhas. Pule 5 pontos de base e faça 4 pontos altos triplos no mesmo ponto de base. Faça 9 pontos altos triplos pulando 1 ponto de base entre eles. No próximo ponto faça 5 pontos altos triplos no mesmo ponto de base. No próximo ponto de base + 5 pontos altos triplos no mesmo ponto de base. Repita essa sequência até o final da carreira, termine a carreira com 5 pontos altos triplos no mesmo ponto de base.",
@@ -478,7 +478,7 @@ receitas = {
             ]
         },
         "Amostra 5": {
-            "imagem": "amostra_5.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/amostra_5.png",
             "etapas": [
             "Inicie com 29 correntinhas + 4 correntinhas.",
             "1ª Carreira: Pule 4 pontos de base e no 5 ponto faça pontos altos até o final da carreira. Faça uma correntinha para virar o trabalho.",
@@ -491,7 +491,7 @@ receitas = {
              ]
         },
         "Amostra 6": {
-            "imagem": "amostra_6.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/amostra_6.png",
             "etapas": [
             "Inicie com 15 correntinhas + 2.", 
             "1ª Carreira: Pule 1 ponto de base e na 2ª correntinha faça pontos baixos até o final da carreira.",
@@ -506,7 +506,7 @@ receitas = {
     },
         "🏫 ESCOLA DE PONTOS": {
             "Correntinha": {
-            "imagem": "correntinha.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/correntinha.png",
             "etapas": [
             "Passo 1: Vamos iniciar as correntinhas fazendo um nó corrediço. Para fazer o nó corrediço, você vai segurar a linha que vem do novelo e fazer uma voltinha e passar a linha por dentro dela. Se nós puxarmos a linha que vem do novelo, o nó vai se ajustar.",
             "Passo 2: Vamos introduzir a agulha dentro do nó corrediço que acabamos de fazer e vamos puxar a linha para ajustá-lo na agulha.",
@@ -516,7 +516,7 @@ receitas = {
             ]
         },
         "Ponto Baixíssimo": {
-            "imagem": "ponto_baixíssimo.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/ponto_baix%C3%ADssimo.png",
             "etapas": [
             "Passo 1: Introduza a agulha no ponto de base desejado (na correntinha ou alça do ponto anterior).",
             "Passo 2: Passe o fio por baixo da agulha puxe o fio, passando-o por dentro do ponto de base.",
@@ -525,7 +525,7 @@ receitas = {
             ]
         },
         "Ponto Baixo": {
-            "imagem": "ponto_baixo.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/ponto_baixo.png",
             "etapas": [
             "Passo 1: Introduza a agulha no ponto de base desejado (na correntinha ou alça do ponto anterior).",
             "Passo 2: Lace o fio que vem do novelo com a agulha e puxe-o para a frente. Você ficará com duas alcinhas (ou argolas) na agulha.",
@@ -533,7 +533,7 @@ receitas = {
             ]
         },
         "Meio Ponto Alto": {
-            "imagem": "ponto_alto.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/ponto_alto.png",
             "etapas": [
             "Passo 1: Com uma alça já na agulha, dê uma laçada com o fio do novelo (você terá duas alças na agulha).",
             "Passo 2: Introduza a agulha no ponto de base desejado (na correntinha ou alça do ponto anterior).",
@@ -542,7 +542,7 @@ receitas = {
             ]
         },
         "Ponto Alto": {
-            "imagem": "meio_ponto_alto.png",
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/meio_ponto_alto.png",
             "etapas": [
             "Passo 1: Para começar, você precisa de um cordão de correntinhas. Se estiver iniciando uma peça do zero, faça o nº de correntinhas desejado mais 3 correntes extras, que servirão para dar a altura do primeiro ponto alto da carreira.",
             "Passo 2: Passe o fio sobre a agulha (laçada) antes de inseri-la no ponto",
