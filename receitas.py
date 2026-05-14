@@ -262,7 +262,7 @@ receitas = {
             "2ª Carreira: Faça 6 aumentos você terá 12 pontos.",
             "3ª à 11ª Carreira: Faça 9 carreiras de ponto baixo com 12 pontos cada carreira.",
             "12ª Carreira: Faça 2 pontos baixos e uma diminuição. Repetir 3 vezes, terá 9 pontos.",
-            "13ª Carreira: Faça 1 ponto baixo e uma diminuição. Repetir 3 vezes, terá 6 pontos."
+            "13ª Carreira: Faça 1 ponto baixo e uma diminuição. Repetir 3 vezes, terá 6 pontos.",
             "Preencha cada tentáculo com o material de enchimento.",
             "Cabeça e corpo: No anel mágico, faça 6 pontos baixos. Vá aumentando gradualmente (de 6 em 6) até chegar a 54 pontos na volta.",
             "10ª à 19ª Carreira: Faça 10 carreiras com 54 pontos baixos.",
@@ -314,8 +314,8 @@ receitas = {
             ]
         },
         "Amigurumi (Elefante Chocalho)": {
-            "imagem": "elefante_chocalho.png",
-            "etapas": ["https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/elefante_chocalho.png"
+            "imagem": "https://raw.githubusercontent.com/rita-ia-dev/app-croche/71c4476407c23eb3490544f75d34e502f5942be2/elefante_chocalho.png",
+            "etapas": [
             "Materiais: Fio de algodão 8/6 (cinza, natural, e para bordar as bochechas e sobrancelhas rosa e preto), agulha de crochê 3 milímetros, tesoura, fibra siliconada, agulha de costura, olhos de segurança nº 12 e caixa de chocalho.",
             "Orelhas (Faça 2): Faça 2 peças na cor natural e 2 na cor cinza. 1ª Carreira: Faça 7 correntinhas. 5 pontos baixos na terceira correntinha depois da agulha. 6 pontos baixos no último ponto. Vire o trabalho e faça 4 pontos baixos do outro lado. 1 aumento no último ponto, total de 17 pontos na carreira.",
             "2ª Carreira: Inicie com 1 aumento. 4 pontos baixos e 6 aumentos. 5 pontos baixos e 1 aumento. Total de 25 pontos na carreira.",
